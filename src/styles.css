@@ -10,3 +10,6 @@ font-family:'Ga Maamli', Garamond, serif;
 html {
  background-image: linear-gradient(green, blue);
 }
+header h1 {
+font-size:5vw;
+}
